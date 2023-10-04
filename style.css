@@ -1,0 +1,12 @@
+h1{ text-align: center;}
+form{
+    width: 400px;
+    position: relative;
+    left: 35vw;
+}
+
+#car2{
+    position: relative;
+    bottom: 20vh;
+    left: 40vw;
+}
